@@ -8,7 +8,7 @@
 [![Supabase](https://img.shields.io/badge/DB-Supabase-green?logo=supabase)](https://supabase.com)
 [![Deployed on Vercel](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel)](https://vercel.com)
 
-**[▶ Live Demo](https://agadahealth.vercel.app)** | **[📄 Full Intelligence Document](docs/INTELLIGENCE_DOCUMENT.md)**
+**[▶ Live Demo](https://agadahealth.vercel.app)** | **[📄 Technical Document](https://docs.google.com/document/d/1U5VRnGQ7xKAdQhH38lnLZMNSFiuj39fQqoSsJHYD0WA)**
 
 ---
 
@@ -327,8 +327,3 @@ All government data is downloaded from official portals, cleaned, and loaded int
 
 MIT License — see [LICENSE](LICENSE) for details.
 
-The government built the data. We built the door.
-
----
-
-*"Her name was Sunita. A school teacher from Kanpur. Diagnosed with cancer. She paid ₹4,800 for a medicine available at ₹210. This is the story of 1.4 billion Indians. Agada is the door."*
