@@ -29,7 +29,7 @@ We built Agada to close both gaps. Point a camera at a medicine strip. In three 
 
 ## What it does
 
-You open agadahealth.vercel.app (not yet deployed) on any phone and tap "Scan Medicine." The camera opens. You take a photo of the strip; the front face, with the brand name and dosage visible. Three things happen at once:
+You open agadahealth.vercel.app (beta deployed) on any phone and tap "Scan Medicine." The camera opens. You take a photo of the strip; the front face, with the brand name and dosage visible. Three things happen at once:
 
 - The image goes to Google Gemini, which reads the text on the strip and extracts the brand name, active ingredient, dosage, and manufacturer as structured data.
 - That brand name gets checked against our local copy of the CDSCO drug registry, 300,000+ approved drugs, loaded from the government's own published files.
